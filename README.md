@@ -1,2 +1,7 @@
-# demo-los-salvadores-construcciones
-Demo web para Los Salvadores Construcciones — diseñada por eterlab.
+# Los Salvadores Construcciones
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
